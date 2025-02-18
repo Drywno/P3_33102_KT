@@ -1,2 +1,2 @@
 # P3_33102_KT
-Projekt Programowanie Współbieżne i rozproszeone Kamil Trzópek IS2 P3
+Projekt Programowanie Współbieżne i rozproszone Kamil Trzópek IS2 P3
